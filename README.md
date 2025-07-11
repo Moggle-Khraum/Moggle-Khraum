@@ -27,29 +27,41 @@
   <br>
   - 🔍 How to be a proper freelancer and gamedev as an amateur
  <br>
- <b>🗺️ My Personal Space:</b>
- <br>
-  [<img align="left" alt="itchio" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>][itchio]
-  [itchio]:https://studioabs.itch.io/
   <br>
-
-
-
-
-
-
-
-
+ <b>🗺️ My Itch.io Page and Youtube:</b>
+<br>
   
- <b>📫 How to reach me:</b>
- <br>
+[![My Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://studioabs.itch.io/) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@moggsknowdawie)
+<br>
+<br>
+<b> 📲 Connect with me:<b/>
+<br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:demiurgegravedigger[at]gmail[dot]com) [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/jtagalog.2002) <br>
+<b>Discord: @bugomangudko</b>
+<br> 
+<b> ⚙️ Technology Stack:<b/>
+<br>
+[![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)](https://godotengine.org/) [![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)](https://www.audacityteam.org/) [![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)](https://www.audacityteam.org/) 
 
+
+
+
+<br>
+
+
+
+
+
+</div>
+ 
  
 
 
 
-  
+  <!--
   <br>
+ <b>📫 How to reach me:</b>
+  
   -  Here's my Itch.io page for reference: 🌐 
   <br>
   - You can contact me on my Discord: bugomangudko
@@ -66,8 +78,7 @@
 
 
   
-</div>
- 
+
 
 
 
