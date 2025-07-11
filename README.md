@@ -29,7 +29,7 @@
  <br>
  <b>🗺️ My Personal Space:</b>
  <br>
-  [<img align="left" alt="itchio" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"" />][itchio]
+  [<img align="left" alt="itchio" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>][itchio]
   [itchio]:https://studioabs.itch.io/
   <br>
 
