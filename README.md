@@ -1,4 +1,4 @@
-<div id="header" align="c>
+<div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <br>
    <b>Hello there!</b>
@@ -6,22 +6,35 @@
   <br>
   <br>
   <br>
-  <b>:bearded_person: About Me</b><br>
-  :video_game: A Rusted Warfare Modder Enthusiast
+  <b>:bearded_person: About Me:</b><br>
+  - :video_game: A Rusted Warfare Modder, Game Dev Hobbyist, and Horizon Walker Player..
     <br>
-    :writing_hand: A Chinese Manhua Scanlator using DeepL/Yandex/Google Translate
+  - :writing_hand: A Chinese Manhua Scanlator using DeepL/Yandex/Google Translate
     <br>
-    :sunglasses: Currently reading Translated Webnovels like Xianxia/Wuxia/Manga/Manhua/Manhwa/Manga
-    <br>
-    🧑‍🎨 A game dev enthusiast, Rusted Warfare Modder and Horizon Walker Player..
+  - :sunglasses: Currently reading Translated Webnovels like Xianxia/Wuxia/Manga/Manhua/Manhwa/Manga
+  <br>
+  <br>
+  <b>:card_file_box: Project Done:</b>
+  <br>
+  - 📚 My Capstone Project: TOOFIA
+  <br>
+  - 🧩 Tic Tac Toe Game in my Itch.io Page
+  <br>
+  - 📌 Cancelled Commisioned Game: ATP: Energy Quest
+  <br>
+ <br>
+  <b>🌱 Things I’m currently learning:</b>
+  <br>
+  - 🔍 How to be a proper freelancer and gamedev as an amateur
+ <br>
+ <b>📫 How to reach me:</b>
+ <br>
+ <img src="{[BadgeURLHere](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)}"/>
+ 
 
-  <br>
-  <br>
-  - 📁 My Capstone Project: DONE!
- <br>
-  - 🌱 I’m currently learning: ⚙️Godot Engine & 🔧GDScript
- <br>
-  <center>📫 How to reach me:</center>
+
+
+  
   <br>
   -  Here's my Itch.io page for reference: 🌐 https://studioabs.itch.io/
   <br>
