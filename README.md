@@ -27,16 +27,29 @@
   <br>
   - 🔍 How to be a proper freelancer and gamedev as an amateur
  <br>
+ <b>🗺️ My Personal Space:</b>
+ <br>
+  <img src="{[[BadgeURLHere](https://studioabs.itch.io/)}"/>
+  <br>
+
+
+
+
+
+
+
+
+  
  <b>📫 How to reach me:</b>
  <br>
- <img src="{[BadgeURLHere](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)}"/>
+
  
 
 
 
   
   <br>
-  -  Here's my Itch.io page for reference: 🌐 https://studioabs.itch.io/
+  -  Here's my Itch.io page for reference: 🌐 
   <br>
   - You can contact me on my Discord: bugomangudko
   <br>
