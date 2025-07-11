@@ -44,52 +44,15 @@
 <br>
 [![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)](https://godotengine.org/) [![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)](https://www.audacityteam.org/) [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/products/photoshop.html/) [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org/) <a href="https://balsamiq.com" target="_blank">
   <img src="https://i.imgur.com/M9TK90t.png" alt="Balsamiq" height="28" style="background:#F24822; padding:4px 8px; border-radius:6px;"></a> [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
-
-
-
-
-
-
-
-
 <br>
-
-
-
-
-
+<br>
+⚡ Fun fact:
+- Ask me about Rusted Warfare Modding and I tell you more.
+- Inspired by CnC Game Franchise and Total Annihilation game.
+- Here's the link: https://corrodinggames.com/rusted_warfare
 </div>
  
  
-
-
-
-  <!--
-  <br>
- <b>📫 How to reach me:</b>
-  
-  -  Here's my Itch.io page for reference: 🌐 
-  <br>
-  - You can contact me on my Discord: bugomangudko
-  <br>
-  - You can try email: demiurgegravedigger@gmail.com
-  <br>
-  - My Youtube: https://www.youtube.com/@moggsknowdawie
-    (its barren, I know)
-  <br>
-  💬 Ask me about Rusted Warfare Modding, and I will tell you more about it.
-
-
-
-
-
-  
-
-
-
-
-
-
 
 <!--
 **Moggle-Khraum/Moggle-Khraum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
