@@ -7,25 +7,28 @@
   <br>
   <br>
   <b>:bearded_person: About Me</b><br>
-  <center> :video_game: A Rusted Warfare Modder Enthusiast
+  :video_game: A Rusted Warfare Modder Enthusiast
     <br>
     :writing_hand: A Chinese Manhua Scanlator using DeepL/Yandex/Google Translate
     <br>
     :sunglasses: Currently reading Translated Webnovels like Xianxia/Wuxia/Manga/Manhua/Manhwa/Manga
     <br>
     🧑‍🎨 A game dev enthusiast, Rusted Warfare Modder and Horizon Walker Player..
-  </center>
+
   <br>
   <br>
-  - 📁 My Capstone Project: **DONE**!
+  - 📁 My Capstone Project: DONE!
  <br>
   - 🌱 I’m currently learning: ⚙️Godot Engine & 🔧GDScript
  <br>
-  📫 How to reach me:
-  - Here's my Itch.io page for reference: 🌐 https://studioabs.itch.io/
+  <center>📫 How to reach me:</center>
+  <br>
+  -  Here's my Itch.io page for reference: 🌐 https://studioabs.itch.io/
+  <br>
   - You can contact me on my Discord: bugomangudko
+  <br>
   - You can try email: demiurgegravedigger@gmail.com
-    (I have a lot of emails, both are my mains for different purpose.)
+  <br>
   - My Youtube: https://www.youtube.com/@moggsknowdawie
     (its barren, I know)
   <br>
