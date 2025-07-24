@@ -1,4 +1,4 @@
-<div id="header">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <br>
    <b>Hello there!</b>
@@ -46,10 +46,6 @@
   <img src="https://i.imgur.com/M9TK90t.png" alt="Balsamiq" height="28" style="background:#F24822; padding:4px 8px; border-radius:6px;"></a> [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
 <br>
 <br>
-⚡ Fun fact:
-- Ask me about Rusted Warfare Modding and I tell you more.
-- Inspired by CnC Game Franchise and Total Annihilation game.
-- Here's the link: https://corrodinggames.com/rusted_warfare
 </div>
  
  
