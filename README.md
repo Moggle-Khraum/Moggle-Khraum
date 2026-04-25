@@ -27,14 +27,17 @@
   <br>
   - 🔍 How to be a proper freelancer and gamedev as an amateur
   <br>
-  - 🌐 <strong>NovelDR Website:</strong> 
-    <a href="https://moggle.is-a-good.dev/" >Visit Site</a>
  <br>
   <br>
  <b>🗺️ My Itch.io Page and Youtube:</b>
 <br>
   
 [![My Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://studioabs.itch.io/) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@moggsknowdawie)
+<br>
+<br>
+<b>🌐 NovelDR Website:</b>
+<br>
+[![NovelDR Website](https://img.shields.io/badge/NovelDR-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://moggle.is-a-good.dev/)
 <br>
 <br>
 <b> 📲 Connect with me:<b/>
