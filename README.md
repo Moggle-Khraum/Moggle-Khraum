@@ -20,12 +20,14 @@
   <br>
   - 🧩 Tic Tac Toe Game in my Itch.io Page
   <br>
-  - 📌 Cancelled Commisioned Game: ATP: Energy Quest
+  - 📌 React Offline-novel reading app: NovelDR App
   <br>
  <br>
   <b>🌱 Things I’m currently learning:</b>
   <br>
   - 🔍 How to be a proper freelancer and gamedev as an amateur
+  <br>
+  - 🌐 NovelDR Website: [Visit Site](https://moggle.is-a-good.dev/)
  <br>
   <br>
  <b>🗺️ My Itch.io Page and Youtube:</b>
