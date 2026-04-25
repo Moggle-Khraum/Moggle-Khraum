@@ -27,7 +27,8 @@
   <br>
   - 🔍 How to be a proper freelancer and gamedev as an amateur
   <br>
-  - 🌐 NovelDR Website: [Visit Site](https://moggle.is-a-good.dev/)
+  - 🌐 <strong>NovelDR Website:</strong> 
+    <a href="https://moggle.is-a-good.dev/" target="_blank">Visit Site</a>
  <br>
   <br>
  <b>🗺️ My Itch.io Page and Youtube:</b>
